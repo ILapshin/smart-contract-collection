@@ -1,0 +1,19 @@
+{
+  "name": "smart-contract-collection",
+  "version": "1.0.0",
+  "description": "A collection of various Solidity smart contracts implementations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "smartcontract",
+    "ethereum"
+  ],
+  "author": "Igor Lapshin",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.1"
+  }
+}
